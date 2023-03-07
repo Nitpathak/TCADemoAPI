@@ -1,0 +1,301 @@
+RUN	performance.PerfTest	perftest	1678159383901	 	3.7.4
+USER	create	START	1678159384049
+USER	create	START	1678159384152
+USER	create	START	1678159384302
+USER	create	START	1678159384252
+USER	create	START	1678159383958
+USER	create	START	1678159384353
+USER	create	START	1678159384000
+USER	create	START	1678159384202
+USER	create	START	1678159384403
+USER	create	START	1678159384100
+USER	create	START	1678159384453
+USER	create	START	1678159384504
+USER	create	START	1678159384554
+USER	create	START	1678159384604
+USER	create	START	1678159384655
+USER	create	START	1678159384705
+USER	create	START	1678159384756
+USER	create	START	1678159384806
+USER	create	START	1678159384856
+USER	create	START	1678159384905
+USER	create	START	1678159384956
+USER	create	START	1678159385006
+USER	create	START	1678159385056
+USER	create	START	1678159385106
+USER	create	START	1678159385157
+USER	create	START	1678159385206
+USER	create	START	1678159385256
+USER	create	START	1678159385306
+USER	create	START	1678159385357
+USER	create	START	1678159385408
+USER	create	START	1678159385457
+USER	create	START	1678159385506
+USER	create	START	1678159385556
+USER	create	START	1678159385607
+USER	create	START	1678159385657
+USER	create	START	1678159385707
+USER	create	START	1678159385756
+USER	create	START	1678159385807
+USER	create	START	1678159385858
+USER	create	START	1678159385907
+USER	create	START	1678159385957
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385376	1678159390957	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385377	1678159391630	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385376	1678159391766	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385376	1678159391958	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385377	1678159392130	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385377	1678159392178	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385376	1678159392597	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385377	1678159392674	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385378	1678159392712	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385375	1678159392904	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385375	1678159393036	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159385377	1678159393472	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159391638	1678159398441	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159391015	1678159398602	OK	 
+USER	create	END	1678159391008
+USER	create	END	1678159391633
+USER	create	END	1678159391768
+USER	create	END	1678159391960
+USER	create	END	1678159392131
+USER	create	END	1678159392179
+USER	create	END	1678159392599
+USER	create	END	1678159392675
+USER	create	END	1678159392713
+USER	create	END	1678159392905
+USER	create	END	1678159393037
+USER	create	END	1678159393473
+USER	create	END	1678159398443
+USER	create	END	1678159398603
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159391973	1678159398956	OK	 
+USER	create	END	1678159398957
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159392138	1678159399095	OK	 
+USER	create	END	1678159399096
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159392910	1678159399259	OK	 
+USER	create	END	1678159399260
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159392681	1678159399296	OK	 
+USER	create	END	1678159399297
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159392719	1678159399555	OK	 
+USER	create	END	1678159399556
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159392185	1678159399558	OK	 
+USER	create	END	1678159399578
+USER	create	START	1678159399579
+USER	create	START	1678159399579
+USER	create	START	1678159399579
+USER	create	START	1678159399579
+USER	create	START	1678159399580
+USER	create	START	1678159399581
+USER	create	START	1678159399582
+USER	create	START	1678159399582
+USER	create	START	1678159399582
+USER	create	START	1678159399582
+USER	create	START	1678159399582
+USER	create	START	1678159399583
+USER	create	START	1678159399584
+USER	create	START	1678159399584
+USER	create	START	1678159399584
+USER	create	START	1678159399584
+USER	create	START	1678159399585
+USER	create	START	1678159399585
+USER	create	START	1678159399579
+USER	create	START	1678159399585
+USER	create	START	1678159399586
+USER	create	START	1678159399586
+USER	create	START	1678159399587
+USER	create	START	1678159399587
+USER	create	START	1678159399587
+USER	create	START	1678159399588
+USER	create	START	1678159399588
+USER	create	START	1678159399588
+USER	create	START	1678159399588
+USER	create	START	1678159399589
+USER	create	START	1678159399589
+USER	create	START	1678159399589
+USER	create	START	1678159399589
+USER	create	START	1678159399590
+USER	create	START	1678159399590
+USER	create	START	1678159399591
+USER	create	START	1678159399591
+USER	create	START	1678159399591
+USER	create	START	1678159399591
+USER	create	START	1678159399591
+USER	create	START	1678159399592
+USER	create	START	1678159399592
+USER	create	START	1678159399592
+USER	create	START	1678159399593
+USER	create	START	1678159399593
+USER	create	START	1678159399579
+USER	create	START	1678159399593
+USER	create	START	1678159399579
+USER	create	START	1678159399587
+USER	create	START	1678159399594
+USER	create	START	1678159399595
+USER	create	START	1678159399590
+USER	create	START	1678159399593
+USER	create	START	1678159399595
+USER	create	START	1678159399595
+USER	create	START	1678159399596
+USER	create	START	1678159399591
+USER	create	START	1678159399596
+USER	create	START	1678159399597
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159393043	1678159399862	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159391774	1678159400231	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159393479	1678159400302	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159392605	1678159400353	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159399303	1678159405380	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159398448	1678159405460	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159399265	1678159406326	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159398611	1678159406526	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159399572	1678159406722	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159398962	1678159406771	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159399869	1678159407070	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159399601	1678159407236	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159399103	1678159407908	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159400360	1678159408440	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159400309	1678159408654	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159400237	1678159408654	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159405386	1678159413145	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159405466	1678159413746	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159406777	1678159414059	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159407075	1678159414067	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159407241	1678159414292	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159406727	1678159414388	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159406533	1678159414470	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159406332	1678159414632	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159408659	1678159415444	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159407916	1678159415481	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159408445	1678159415578	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159408659	1678159416135	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159413150	1678159421982	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159414072	1678159421982	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159413751	1678159422081	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159414065	1678159422123	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159414296	1678159422172	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159414636	1678159422226	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159414392	1678159422371	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159415583	1678159422371	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159414475	1678159422371	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159415448	1678159422429	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159415486	1678159422429	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159416140	1678159422633	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422129	1678159430478	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422434	1678159430529	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159421986	1678159430630	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422376	1678159430672	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422637	1678159430672	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422086	1678159430672	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422376	1678159430722	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422376	1678159430773	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422254	1678159430773	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159421986	1678159430822	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422179	1678159431122	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159422434	1678159431122	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430727	1678159439833	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430483	1678159439834	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430778	1678159439835	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430678	1678159439874	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430826	1678159439884	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430778	1678159439884	OK	 
+USER	create	END	1678159399862
+USER	create	END	1678159400231
+USER	create	END	1678159400303
+USER	create	END	1678159400354
+USER	create	END	1678159405380
+USER	create	END	1678159405461
+USER	create	END	1678159406326
+USER	create	END	1678159406527
+USER	create	END	1678159406723
+USER	create	END	1678159406771
+USER	create	END	1678159407071
+USER	create	END	1678159407237
+USER	create	END	1678159407910
+USER	create	END	1678159408441
+USER	create	END	1678159408655
+USER	create	END	1678159408655
+USER	create	END	1678159413146
+USER	create	END	1678159413747
+USER	create	END	1678159414060
+USER	create	END	1678159414068
+USER	create	END	1678159414292
+USER	create	END	1678159414389
+USER	create	END	1678159414471
+USER	create	END	1678159414632
+USER	create	END	1678159415445
+USER	create	END	1678159415482
+USER	create	END	1678159415579
+USER	create	END	1678159416136
+USER	create	END	1678159421983
+USER	create	END	1678159421983
+USER	create	END	1678159422083
+USER	create	END	1678159422124
+USER	create	END	1678159422174
+USER	create	END	1678159422227
+USER	create	END	1678159422372
+USER	create	END	1678159422372
+USER	create	END	1678159422372
+USER	create	END	1678159422430
+USER	create	END	1678159422430
+USER	create	END	1678159422634
+USER	create	END	1678159430479
+USER	create	END	1678159430530
+USER	create	END	1678159430633
+USER	create	END	1678159430675
+USER	create	END	1678159430675
+USER	create	END	1678159430677
+USER	create	END	1678159430723
+USER	create	END	1678159430774
+USER	create	END	1678159430774
+USER	create	END	1678159430822
+USER	create	END	1678159431122
+USER	create	END	1678159431122
+USER	create	END	1678159439838
+USER	create	END	1678159439838
+USER	create	END	1678159439838
+USER	create	END	1678159439878
+USER	create	END	1678159439884
+USER	create	END	1678159439884
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430534	1678159439923	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430679	1678159439923	OK	 
+USER	create	END	1678159439924
+USER	create	END	1678159439924
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159431126	1678159439975	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430681	1678159439975	OK	 
+USER	create	END	1678159439975
+USER	create	END	1678159439975
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159430635	1678159440127	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159431126	1678159440128	OK	 
+USER	create	END	1678159440128
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439879	1678159447980	OK	 
+USER	create	END	1678159440129
+USER	create	END	1678159447981
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159440133	1678159448024	OK	 
+USER	create	END	1678159448025
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439980	1678159448031	OK	 
+USER	create	END	1678159448032
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439840	1678159448124	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439912	1678159448129	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159440132	1678159448129	OK	 
+USER	create	END	1678159448126
+USER	create	END	1678159448130
+USER	create	END	1678159448130
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439980	1678159448172	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439838	1678159448171	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439838	1678159448171	OK	 
+USER	create	END	1678159448172
+USER	create	END	1678159448172
+USER	create	END	1678159448172
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439929	1678159448180	OK	 
+USER	create	END	1678159448181
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439888	1678159448183	OK	 
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159439929	1678159448184	OK	 
+USER	create	END	1678159448184
+USER	create	END	1678159448185
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159447986	1678159451332	OK	 
+USER	create	END	1678159451334
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159448030	1678159451373	OK	 
+USER	create	END	1678159451374
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159448037	1678159451475	OK	 
+USER	create	END	1678159451476
+REQUEST		GET /xtk/pen/rates?dealer_id=3PA69203&vin=3TMAZ5CNXMM154510&odometer=3&deal_type=finance_deal&is_new=true&payment_type=Lease&is_cpo=false&finance_term=60&finance_amount=41340.44&vehicle_price=37448&msrp=35215&transaction_date=2021-05-28	1678159448133	1678159451523	OK	 
+USER	create	END	1678159451524
